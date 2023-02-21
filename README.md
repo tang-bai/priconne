@@ -1,1 +1,1 @@
-# HoshinoBot的priconne图片资源
+# HoshinoBot的静态图片资源带4格漫画部分汉化
