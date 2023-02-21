@@ -1,1 +1,1 @@
-# -priconne-img
+# HoshinoBot的priconne图片资源
